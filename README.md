@@ -14,7 +14,7 @@ In this repo I tried (my best) to organize some of the projects I have been work
 
 ### Project 2: Perceptron
 
-- **Directory**: `Perceptron/`
+- **Directory**: `Perceptron/README.md`
 - **Description**: Implementation of the Perceptron algorithm and its application to a binary classification problem.
 - **Contents**:
   - `experiment.ipynb`: Jupyter notebook detailing experiments and results with the Perceptron model.
@@ -22,7 +22,7 @@ In this repo I tried (my best) to organize some of the projects I have been work
 
 ### Project 3: Ridge Regression
 
-- **Directory**: `Ridge/`
+- **Directory**: `Ridge/README.md`
 - **Description**: An investigation into Ridge Regression, showcasing its ability to deal with multicollinearity by introducing a regularization parameter.
 - **Contents**:
   - `olympics_100m.csv`: Dataset containing 100m sprint times used for regression analysis.
