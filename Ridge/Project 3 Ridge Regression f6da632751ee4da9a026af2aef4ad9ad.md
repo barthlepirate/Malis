@@ -15,7 +15,7 @@ Our RidgeReg class contains the methods `__init__`, `fit` and `predict`. The `__
 Then for fitting our model, we implemented the closed form solution to coefficients theta in matrix form: 
 
 $$
-\(\hat{\theta} = (X^T X + A)^{-1} X^T y\)
+$\hat{\theta} = (X^T X + A)^{-1} X^T y$
 
 $$
 
