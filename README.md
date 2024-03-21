@@ -1,8 +1,6 @@
 # Malis
-# Machine Learning Portfolio
 
-Welcome to my machine learning portfolio! This repository is a collection of various machine learning projects that showcase different techniques and algorithms. Below you'll find a brief overview of each project, along with instructions on how to navigate the projects and run the code.
-
+In this repo I tried (my best) to organize some of the projects I have been working on during the Machine learning and intelligent systems course thaught at EURECOM. The first folder does not include any report and the notebook isn't well organized, but the hyperparameter thuning part is there.
 ## Projects
 
 ### Project 1: K-Nearest Neighbors (KNN)
