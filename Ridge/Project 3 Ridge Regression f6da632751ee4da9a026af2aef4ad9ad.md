@@ -14,10 +14,9 @@ Our RidgeReg class contains the methods `__init__`, `fit` and `predict`. The `__
 
 Then for fitting our model, we implemented the closed form solution to coefficients theta in matrix form: 
 
-$$
 $\hat{\theta} = (X^T X + A)^{-1} X^T y$
 
-$$
+
 
 where A is the modified identity matrix with the first element on the main diagonal (corresponding to the intercept term) is replaced with 0. This adjustment ensures that the regularization penalty does not apply to the intercept term during the ridge regression process.
 
